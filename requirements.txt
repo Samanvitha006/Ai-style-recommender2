@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+opencv-python
+mediapipe>=0.10.5,<0.11
+scikit-learn
