@@ -1,5 +1,6 @@
 
 # AI Face Style Recommender 💇‍♀️🧔
+https://ai-style-recommender2-qsynqekodmlrkzenkcdyan.streamlit.app/
 
 An AI-powered Streamlit web app that detects face shape using MediaPipe Face Landmarks and provides hairstyle or beard style recommendations based on the user's facial structure.
 
