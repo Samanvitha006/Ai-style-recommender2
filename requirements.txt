@@ -2,5 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 pillow
-mediapipe==0.10.9
+mediapipe>=0.10.5,<0.11
+scikit-learn
+
 
